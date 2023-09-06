@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "一个简洁的个人博客"
+  name: "一个简约的个人博客"
   text: "记录前端学习"
   tagline: By LAOVA
   image:

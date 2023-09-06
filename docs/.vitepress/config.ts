@@ -3,8 +3,8 @@ import { nav } from '../modules/navbar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My First Blog",
-  description: "A VitePress Site",
+  title: "Fortune favors the bold.",
+  description: "一个简约的个人博客",
   themeConfig: {
     logo: 'logo.png',
     // https://vitepress.dev/reference/default-theme-config
