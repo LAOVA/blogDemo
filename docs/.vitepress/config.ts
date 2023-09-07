@@ -3,7 +3,7 @@ import { nav } from '../modules/navbar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My minimalist personal blog",
+  title: "LAOVA's blog",
   description: "我的简约风个人博客",
   themeConfig: {
     logo: 'logo.png',
