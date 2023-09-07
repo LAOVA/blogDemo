@@ -3,11 +3,13 @@ import { nav } from '../modules/navbar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Fortune favors the bold.",
-  description: "一个简约的个人博客",
+  title: "My minimalist personal blog",
+  description: "我的简约风个人博客",
   themeConfig: {
     logo: 'logo.png',
-    // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
     nav,
 
     sidebar: [
@@ -21,9 +23,19 @@ export default defineConfig({
       }
     ],
 
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/LAOVA' }
-    ]
-  }
+    ],
+
+    // footer: {
+    //   message: 'Fortune favors the bold.',
+    //   copyright: 'LAOVA',
+    // }
+  },
+  markdown: {
+    theme: {
+      light: "vitesse-light",
+      dark: "vitesse-dark",
+    },
+  },
 })

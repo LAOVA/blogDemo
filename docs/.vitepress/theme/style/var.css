@@ -8,16 +8,25 @@
   --vp-home-hero-image-filter: blur(150px);
 
   /* brand按钮 */
-  --vp-button-brand-border: #1f83ab;
+  --vp-button-brand-border: #388bc1;
   --vp-button-brand-text: #fff;
   --vp-button-brand-bg: #57c1a7;
 
   --vp-button-brand-hover-border: #57c1a7;
   --vp-button-brand-hover-text: #fff;
-  --vp-button-brand-hover-bg: #1f83ab;
+  --vp-button-brand-hover-bg: #388bc1;
 
   --vp-button-brand-active-border: #57c1a7;
-  --vp-button-brand-active-bg: #1f83ab;
+  --vp-button-brand-active-bg: #388bc1;
+
+  /* 字体 */
+  --vp-c-brand-1:#43a5a9;
+
+  --vp-c-brand-2:#1f83ab;
 
 
+  
 }
+
+
+

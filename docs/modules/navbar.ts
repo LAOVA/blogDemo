@@ -8,7 +8,7 @@ export const nav: DefaultTheme.NavItem[] = [
     items: [
       {
         text: '数据结构与算法',
-        link: '/markdowns/home/Web' // 对应docs/column/Algorithm下的idnex.md文件
+        link: '/markdowns/home/SuanFa' // 对应docs/column/Algorithm下的idnex.md文件
       }
     ]
   },
