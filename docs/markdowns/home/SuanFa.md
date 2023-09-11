@@ -4,21 +4,13 @@
 
 **执行当前算法需要消耗多少时间**
 
-![image-20230804162646290](C:\Users\17232\Desktop\Markdown笔记\前端学习\数据结构与算法\image-20230804162646290.png)
+![image-20230804162646290](https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main//img/202309112158669.png)
 
 ## 空间复杂度
 
-**执行当前算法需要占用多少内存空间**
+![image-20230804163013426](https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main//img/202309112158349.png)
 
-O(1)：无循环嵌套
-
-O(n^\*)：循环嵌套
-
-O(logN):![image-20230802104052797](C:\Users\17232\Desktop\Markdown笔记\前端学习\数据结构与算法\image-20230802104052797.png)
-
-![image-20230804163013426](C:\Users\17232\Desktop\Markdown笔记\前端学习\数据结构与算法\image-20230804163013426.png)
-
-![image-20230804163020774](C:\Users\17232\Desktop\Markdown笔记\前端学习\数据结构与算法\image-20230804163020774.png)
+![image-20230804163020774](https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main//img/202309112158598.png)
 
 ## 栈
 
@@ -184,7 +176,7 @@ RecentCounter.prototype.ping = function (t) {
 
 ## 链表
 
-<img src="C:\Users\17232\Desktop\Markdown笔记\前端学习\数据结构与算法\image-20230802145623174.png" alt="image-20230802145623174" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main//img/202309112158536.png" alt="image-20230802145623174" style="zoom:67%;" />
 
 1. 多个元素存储的列表。
 2. 链表中的元素在内存中不是顺序存储的，而是通过“next”指针联系在一起的。
@@ -356,7 +348,7 @@ var reverseList = function (head) {
 
 ## 字典和哈希表
 
-<img src="C:\Users\17232\Desktop\Markdown笔记\前端学习\数据结构与算法\image-20230802150722038.png" alt="image-20230802150722038" style="zoom:60%;" />
+<img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main//img/202309112158635.png" alt="image-20230802150722038" style="zoom:60%;" />
 
 > 手写实现简易哈希表
 
@@ -596,7 +588,7 @@ var lengthOfLongestSubstring = function (s) {
 
 ## 树
 
-   <img src="C:\Users\17232\Desktop\Markdown笔记\前端学习\数据结构与算法\image-20230803102726860.png" alt="image-20230803102726860" style="zoom:67%;" />
+   <img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main//img/202309112158007.png" alt="image-20230803102726860" style="zoom:67%;" />
 
 ```js
 const tree = {
@@ -927,7 +919,7 @@ var maxDepth = function (root) {
 >
 > **示例 2：**
 >
-> ![img](C:\Users\17232\Desktop\Markdown笔记\前端学习\数据结构与算法\invert2-tree.jpg)
+> ![img](https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main//img/202309112158511.jpg)
 >
 > ```
 > 输入：root = [2,1,3]
@@ -997,7 +989,7 @@ var isSameTree = function (p, q) {
 
 ## 堆
 
-<img src="C:\Users\17232\Desktop\Markdown笔记\前端学习\数据结构与算法\image-20230803141731313.png" alt="image-20230803141731313" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main//img/202309112158213.png" alt="image-20230803141731313" style="zoom:67%;" />
 
 > 通过二叉堆计算：
 >
