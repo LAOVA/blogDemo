@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { nav } from '../modules/navbar'
+import AutoSidebar from "vite-plugin-vitepress-auto-sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -11,18 +12,20 @@ export default defineConfig({
       provider: 'local'
     },
     nav,
-
+    outline: {
+      level: [2, 4],
+      label: '目录'
+    },
     sidebar: [
       {
         text: '文章总览',
         items: [
-          { text: '关于我', link: '/markdowns/home/Web' },
+          { text: '关于我', link: '/markdowns/1.知识大门/开发必备清单' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/LAOVA' }
     ],
@@ -37,5 +40,11 @@ export default defineConfig({
       light: "vitesse-light",
       dark: "vitesse-dark",
     },
+  },
+  vite: {
+    plugins: [
+      // add plugin
+      AutoSidebar()
+    ]
   },
 })

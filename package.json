@@ -24,6 +24,7 @@
     }
   },
   "dependencies": {
+    "vite-plugin-vitepress-auto-sidebar": "^1.6.0",
     "vue": "^3.3.4"
   }
 }
