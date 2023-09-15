@@ -12,7 +12,7 @@
   --vp-button-brand-text: #fff;
   --vp-button-brand-bg: #57c1a7;
 
-  --vp-button-brand-hover-border: #57c1a7;
+  /* --vp-button-brand-hover-border: #57c1a7; */
   --vp-button-brand-hover-text: #fff;
   --vp-button-brand-hover-bg: #388bc1;
 
@@ -25,7 +25,20 @@
   --vp-c-brand-2:#1f83ab;
 
 
-  
+}
+
+.VPFeature{
+  border: 1px solid #dddddd!important;
+}
+.item:nth-child(1)>.VPFeature{
+  transition: all .1s linear;
+}
+.item:nth-child(1)>.VPFeature:hover{
+  border: 2px solid #57c1a7!important;
+  box-shadow: 0px 0px 20px 1px #408f7c7a;
+  scale: 1.2;
+  transition: all .2s linear;
+
 }
 
 

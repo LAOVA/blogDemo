@@ -17,14 +17,14 @@ export default defineConfig({
       label: '目录'
     },
     sidebar: [
-      {
-        text: '文章总览',
-        items: [
-          { text: '关于我', link: '/markdowns/1.知识大门/开发必备清单' },
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+      // {
+      //   text: '文章总览',
+      //   items: [
+      //     { text: '关于我', link: '/markdowns/1.知识大门/开发必备清单' },
+      //     { text: 'Markdown Examples', link: '/markdown-examples' },
+      //     { text: 'Runtime API Examples', link: '/api-examples' }
+      //   ]
+      // }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/LAOVA' }

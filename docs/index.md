@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 学习笔记
-      link: /markdowns/1.知识大门/开发必备清单
+      link: /markdowns/一、知识大门/1）开发必备清单
     - theme: alt
       text: 实战项目
       link: /api-examples
