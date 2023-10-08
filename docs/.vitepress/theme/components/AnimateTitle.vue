@@ -2,7 +2,7 @@
 
 <template>
   <h1 class="name">
-    <span class="clip">我的简约风个人博客</span>
+    <span class="clip">我的简约个人博客</span>
   </h1>
   <p class="text">记录前端学习&生活</p>
   <p class="tagline">—— By LAOVA</p>

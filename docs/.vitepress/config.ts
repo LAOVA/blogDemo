@@ -5,7 +5,7 @@ import AutoSidebar from "vite-plugin-vitepress-auto-sidebar";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "LAOVA's blog",
-  description: "我的简约风个人博客",
+  description: "我的简约个人博客",
   themeConfig: {
     logo: 'logo.png',
     search: {
