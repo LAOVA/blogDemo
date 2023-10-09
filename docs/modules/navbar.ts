@@ -6,6 +6,36 @@ export const nav: DefaultTheme.NavItem[] = [
   {
     text: '前端知识',
     items: [
+      {
+        text: '基础三剑客',
+        items: [
+          {
+            text: 'HTML',
+            link: '/markdowns/2、前端知识/1）HTML'
+          },
+          {
+            text: 'CSS',
+            link: '/markdowns/2、前端知识/2）CSS'
+          },
+          {
+            text: 'JavaScript',
+            link: '/markdowns/2、前端知识/3）JavaScript'
+          },
+        ]
+      },
+      {
+        text: '前端进阶',
+        items: [
+          {
+            text: '移动Web开发',
+            link: '/markdowns/2、前端知识/4）移动Web开发'
+          },
+          {
+            text: 'AJAX',
+            link: '/markdowns/2、前端知识/5）AJAX'
+          }
+        ]
+      }
     ]
   },
   {
@@ -13,15 +43,15 @@ export const nav: DefaultTheme.NavItem[] = [
     items: [
       {
         text: 'Node.js',
-        link: '/markdowns/三、后端知识/1）Node.js'
+        link: '/markdowns/3、后端知识/1）Node.js'
       },
       {
         text: '数据结构与算法',
-        link: '/markdowns/三、后端知识/2）数据结构与算法'
+        link: '/markdowns/3、后端知识/2）数据结构与算法'
       },
       {
         text: 'Nginx的基本使用',
-        link: '/markdowns/三、后端知识/3）Nginx的基本使用'
+        link: '/markdowns/3、后端知识/3）Nginx的基本使用'
       }
     ]
   },

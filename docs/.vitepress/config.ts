@@ -5,7 +5,7 @@ import AutoSidebar from "vite-plugin-vitepress-auto-sidebar";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "LAOVA's blog",
-  description: "我的简约个人博客",
+  description: "一个简约的个人博客",
   themeConfig: {
     logo: 'logo.png',
     search: {
@@ -16,16 +16,7 @@ export default defineConfig({
       level: [2, 4],
       label: '目录'
     },
-    sidebar: [
-      // {
-      //   text: '文章总览',
-      //   items: [
-      //     { text: '关于我', link: '/markdowns/1.知识大门/开发必备清单' },
-      //     { text: 'Markdown Examples', link: '/markdown-examples' },
-      //     { text: 'Runtime API Examples', link: '/api-examples' }
-      //   ]
-      // }
-    ],
+    sidebar: [],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/LAOVA' }
     ],
