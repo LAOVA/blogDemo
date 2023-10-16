@@ -4,22 +4,22 @@ export const nav: DefaultTheme.NavItem[] = [
   { text: '首页', link: '/' },
   // { text: 'Examples', link: '/markdown-examples' }
   {
-    text: '前端知识',
+    text: '前端笔记',
     items: [
       {
         text: '基础三剑客',
         items: [
           {
             text: 'HTML',
-            link: '/markdowns/2、前端知识/1）HTML'
+            link: '/markdowns/2、前端笔记/1）HTML'
           },
           {
             text: 'CSS',
-            link: '/markdowns/2、前端知识/2）CSS'
+            link: '/markdowns/2、前端笔记/2）CSS'
           },
           {
             text: 'JavaScript',
-            link: '/markdowns/2、前端知识/3）JavaScript'
+            link: '/markdowns/2、前端笔记/3）JavaScript'
           },
         ]
       },
@@ -28,30 +28,30 @@ export const nav: DefaultTheme.NavItem[] = [
         items: [
           {
             text: '移动Web开发',
-            link: '/markdowns/2、前端知识/4）移动Web开发'
+            link: '/markdowns/2、前端笔记/4）移动Web开发'
           },
           {
             text: 'AJAX',
-            link: '/markdowns/2、前端知识/5）AJAX'
+            link: '/markdowns/2、前端笔记/5）AJAX'
           }
         ]
       }
     ]
   },
   {
-    text: '后端知识',
+    text: '后端笔记',
     items: [
       {
         text: 'Node.js',
-        link: '/markdowns/3、后端知识/1）Node.js'
+        link: '/markdowns/3、后端笔记/1）Node.js'
       },
       {
         text: '数据结构与算法',
-        link: '/markdowns/3、后端知识/2）数据结构与算法'
+        link: '/markdowns/3、后端笔记/2）数据结构与算法'
       },
       {
         text: 'Nginx的基本使用',
-        link: '/markdowns/3、后端知识/3）Nginx的基本使用'
+        link: '/markdowns/3、后端笔记/3）Nginx的基本使用'
       }
     ]
   },
