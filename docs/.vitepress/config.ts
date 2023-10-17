@@ -13,7 +13,7 @@ export default defineConfig({
     },
     nav,
     outline: {
-      level: [2, 4],
+      level: [1, 4],
       label: '目录'
     },
     sidebar: [],

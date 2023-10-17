@@ -88,28 +88,6 @@ export const nav: DefaultTheme.NavItem[] = [
       },
     ]
   },
-  {
-    text: '杂七杂八',
-    items: [
-      {
-        text: '面经',
-        items: [
-          {
-            text: '常见面试题',
-            link: '/markdowns/四、杂七杂八/1）面经/常见面试题'
-          }
-        ]
-      },
-      {
-        text: '开发技巧',
-        items: []
-      },
-      {
-        text: '常见报错',
-        items: []
-      }
-    ]
-  },
   // {
   //   text: '关于我',
   //   items: [

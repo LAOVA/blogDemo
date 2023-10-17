@@ -14,8 +14,8 @@ hero:
       text: 学习笔记
       link: /markdowns/1、知识大门/1）开发必备清单
     - theme: alt
-      text: 实战项目
-      link: /api-examples
+      text: 生活碎片
+      link: https://fanyi.baidu.com/
 
 # 按钮下方的描述
 features:
