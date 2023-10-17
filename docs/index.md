@@ -15,7 +15,7 @@ hero:
       link: /markdowns/1、知识大门/1）开发必备清单
     - theme: alt
       text: 生活碎片
-      link: https://fanyi.baidu.com/
+      link:
 
 # 按钮下方的描述
 features:
