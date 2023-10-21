@@ -351,7 +351,7 @@ rem 单位是跟着 html 来走的，有了 rem 页面元素可以设置不同�
 
 > **less 运算**
 
-![image-20230310151457090](C:\Users\17232\Desktop\Markdown笔记\前端学习\移动Web开发\image-20230310151457090.png)
+![image-20230310151457090](https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310212129537.png)
 
 ![image-20230310151833251](https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310092336861.png)
 

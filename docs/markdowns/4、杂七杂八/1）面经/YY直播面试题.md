@@ -515,7 +515,7 @@ Git 是一种分布式版本控制系统
 
 ## TCP 跟 UDP 有什么区别
 
-![3a819be58c17309e0cd5ac309290d7f.png](C:\Users\17232\Desktop\Markdown笔记\前端学习\面经\1605056951790214.png)
+![3a819be58c17309e0cd5ac309290d7f.png](https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310212132265.png)
 
 <br/>
 

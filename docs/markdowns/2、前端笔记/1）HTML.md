@@ -99,7 +99,7 @@ target 打开窗口的方式默认的值是
 
 <img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310082319365.png" alt="截图" style="zoom:50%;" />
 
-<img src="5748ecb39f7119f29f322fc05355ad18.png" alt="截图" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310212123945.png" alt="截图" style="zoom:50%;" />
 
 <img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310082316017.png" alt="截图" style="zoom:50%;" />
 

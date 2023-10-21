@@ -28,7 +28,7 @@ URL(全称是 UniformResourceLocator)中文叫统一资源定位符，用于标�
 
 ## Ajax 基础
 
-<img src="a50aefb72421fa834c5af17df8428a7c.png" alt="截图" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310212129565.png" alt="截图" style="zoom:50%;" />
 
 <img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310092357553.png" alt="截图" style="zoom:50%;" />
 
@@ -330,7 +330,7 @@ xhr.timeout = \*\*、xhr.ontimeout = function(e){}
 
 **上传文件**
 
-<img src="4ab041ffb6064eff60ecadf8f210fdb7.png" alt="截图" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310212129592.png" alt="截图" style="zoom:50%;" />
 
 **显示文件上传进度**
 

@@ -33,9 +33,30 @@ export const nav: DefaultTheme.NavItem[] = [
           {
             text: 'AJAX',
             link: '/markdowns/2、前端笔记/5）AJAX'
+          },
+          {
+            text: 'Typescript',
+            link: '/markdowns/2、前端笔记/6）Typescript'
+          },
+          {
+            text: 'Webpack',
+            link: '/markdowns/2、前端笔记/7）WebpackX'
+          },
+        ]
+      },
+      {
+        text: '框架相关',
+        items: [
+          {
+            text: 'jQuery',
+            link: '/markdowns/2、前端笔记/8）jQuery'
+          },
+          {
+            text: 'Vue生态',
+            link: '/markdowns/2、前端笔记/9）Vue生态'
           }
         ]
-      }
+      },
     ]
   },
   {

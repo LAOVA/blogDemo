@@ -692,7 +692,7 @@ window.setTimeout()
 
 <img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310092322500.png" alt="截图" style="zoom:50%;" />
 
-<img src="cad97679ea7bbe89a361b49499f1b93b.png" alt="截图" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310212125505.png" alt="截图" style="zoom:50%;" />
 
 <img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310092322961.png" alt="截图" style="zoom:50%;" />
 
@@ -930,7 +930,7 @@ protocol://host[:port]/path/[?query]#fragent
 
 ### 数组方法
 
-<img src="ce41592205e7cec65c023f94547e9a1b.png" alt="截图" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/LAOVA/Typora_images@main/img/202310212127441.png" alt="截图" style="zoom:50%;" />
 
 filter()返回一个**新数组**，含多个符合条件的元素，（表示过滤出 XXX）
 some()返回布尔值，（find()返回具体对象或者 undefined）
