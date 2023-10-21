@@ -7,7 +7,7 @@ export const nav: DefaultTheme.NavItem[] = [
     text: '前端笔记',
     items: [
       {
-        text: '基础三剑客',
+        text: '基础三件套',
         items: [
           {
             text: 'HTML',
